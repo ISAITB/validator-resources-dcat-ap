@@ -593,7 +593,7 @@ dcat:Distribution
           sh:inversePath rdf:type ;
         ] ;
     ] ;
-  sh:targetClass "foaf:Agent" ;
+  sh:targetClass foaf:Agent ;
 .
 :MandatoryCatalog
   rdf:type sh:NodeShape ;
@@ -605,7 +605,7 @@ dcat:Distribution
           sh:inversePath rdf:type ;
         ] ;
     ] ;
-  sh:targetClass "dcat:Catalog" ;
+  sh:targetClass dcat:Catalog ;
 .
 :MandatoryDataset
   rdf:type sh:NodeShape ;
@@ -617,7 +617,7 @@ dcat:Distribution
           sh:inversePath rdf:type ;
         ] ;
     ] ;
-  sh:targetClass "dcat:Dataset" ;
+  sh:targetClass dcat:Dataset ;
 .
 
 
