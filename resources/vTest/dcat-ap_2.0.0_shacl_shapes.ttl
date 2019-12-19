@@ -153,6 +153,7 @@
     sh:property [
         sh:name "Catalogue language" ;
         sh:description "Catalogue language description" ;
+	sh:message "Catalogue language message" ;
         sh:class dct:LinguisticSystem ;
         sh:path dct:language ;
         sh:severity sh:Violation
