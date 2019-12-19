@@ -151,6 +151,8 @@
     a sh:NodeShape ;
     sh:name "Catalog"@en ;
     sh:property [
+        sh:name "Catalogue language" ;
+        sh:description "Catalogue language description" ;
         sh:class dct:LinguisticSystem ;
         sh:path dct:language ;
         sh:severity sh:Violation
