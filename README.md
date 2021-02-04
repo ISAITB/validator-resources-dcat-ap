@@ -9,3 +9,5 @@ To publish changes commit and push your updates. In 1-2 minutes the online servi
 The online service is accessible as follows:
 * REST API (Swagger docs): https://www.itb.ec.europa.eu/shacl/swagger-ui.html (use 'dcat-ap' as the domain value in requests).
 * REST API (Hydra docs): https://www.itb.ec.europa.eu/shacl/dcat-ap/api.
+* SOAP API (WSDL): https://www.itb.ec.europa.eu/shacl/soap/dcat-ap/validation?wsdl
+* Web UI: https://www.itb.ec.europa.eu/shacl/dcat-ap/upload
