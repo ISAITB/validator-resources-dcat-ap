@@ -1,5 +1,11 @@
 # DCAT-AP Validator
 
+**Usage note:**
+Please be informed that the DCAT-AP validator is now being redirected to the [SEMIC SHACL Validator](https://www.itb.ec.europa.eu/shacl/semic-shacl/upload). 
+The domain-aliases set in place will redirect the current validator ensuring that this change does not affect your existing setups for the DCAT-AP validator.
+
+In case any issues arise, kindly flag them in the [SEMIC SHACL Validator repository](https://github.com/SEMICeu/semic-shacl-validator/issues).
+
 The files you may edit to adapt the validation are as follows:
 * Folder `resources\v1.2` contains the files for version 1.2.
 * File `resources\config.properties` contains configuration that you may want to adapt.
